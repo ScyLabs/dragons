@@ -1,0 +1,13 @@
+{
+  "name": "dragons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "join-images": "^1.0.0",
+    "merge-images": "^2.0.0",
+    "node-canvas": "^2.7.0",
+    "sharp": "^0.29.1"
+  }
+}
